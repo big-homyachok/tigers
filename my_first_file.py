@@ -11,3 +11,4 @@ integral = sp.integrate(func, (x, 0, sp.pi))
 
 print(f"Результат интеграла: {integral}")
 print(f"123")
+print("local")
