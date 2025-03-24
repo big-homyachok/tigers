@@ -8,3 +8,4 @@ sum = float(num1) + float(num2)
 # Выводим результат
 print("Сумма:", sum)
 print("Hello, World!")
+print("Hello sloniki")
